@@ -1,11 +1,11 @@
 # Nguyên tắc cơ bản của DevOps (CI/CD)
 - - - - -
 
-**1. Tự động hóa** quy trình phát triển, kiểm thử, triển khai và quản lý hệ thống để giảm thiểu sự can thiệp thủ công và lỗi nhân tạo (human misstake).
-**2. Tích hợp liên tục** (Continuous integration - CI): Tích hợp liên tục mã nguồn từ nhiều nguồn khác nhau và test tự động để đảm bảo tính ổn định của ứng dụng.
-**3. Triển khai liên tục** (Continuous Deployment - CD): Tự động triển khai các phiên bản mới của ứng dụng vào môi trường một cách tự động và an toàn.
-**4. Theo dõi và phản hồi** (Monitoring and Feedback): Theo dõi sự hoạt động của ứng dụng và hệ thống thời gian thực để phát hiện và khắc phục lỗi nhanh chóng.
-**5. Tự phục vụ** (Self-service): Cung cấp các công cụ cho các nhóm phát triển (Dev) và vận hành (Operation) để họ có thể làm việc một cách độc lập và hiệu quả.
+**1. Tự động hóa** quy trình phát triển, kiểm thử, triển khai và quản lý hệ thống để giảm thiểu sự can thiệp thủ công và lỗi nhân tạo (human misstake).<br>
+**2. Tích hợp liên tục** (Continuous integration - CI): Tích hợp liên tục mã nguồn từ nhiều nguồn khác nhau và test tự động để đảm bảo tính ổn định của ứng dụng.<br>
+**3. Triển khai liên tục** (Continuous Deployment - CD): Tự động triển khai các phiên bản mới của ứng dụng vào môi trường một cách tự động và an toàn.<br>
+**4. Theo dõi và phản hồi** (Monitoring and Feedback): Theo dõi sự hoạt động của ứng dụng và hệ thống thời gian thực để phát hiện và khắc phục lỗi nhanh chóng.<br>
+**5. Tự phục vụ** (Self-service): Cung cấp các công cụ cho các nhóm phát triển (Dev) và vận hành (Operation) để họ có thể làm việc một cách độc lập và hiệu quả.<br>
 
 **CI/CD** là viết tắt của **Continuous Integration** và **Continuous Deployment** (hoặc **Continuous Delivery**), đây là một phương pháp quy trình phát tiển phần mềm để tạo và triển khai ứng dụng một cách tự động và liên tục. Đây là một trong những phần quan trọng của quy trình phát triển phần mềm hiện đại và giúp tối ưu hóa quy trình phát triển, kiểm tra và triển khai phần mềm.
 ![image](https://github.com/user-attachments/assets/03181978-e9cb-4381-b1f0-65cad45dfe57)
